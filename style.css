@@ -12,9 +12,13 @@ h1 {
 
 h2 {
     color: #0F3D3A;
+    text-align: center;
 }
 
 img {
     width: 250px;
 }
 
+h3 {
+    color: #F5DABF;
+}
